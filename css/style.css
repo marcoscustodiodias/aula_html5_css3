@@ -1,0 +1,30 @@
+body {
+	background: #CE97A6;
+	margin-left: 100px;
+	margin-right:200px;  
+}
+
+header {
+	margin-top: 100px; 
+}
+
+h1 {
+	color: red;
+	font-family: "Times New Roman", Times, serif;
+}
+
+p {
+	font-size: 18px;
+}
+
+footer {
+	margin-bottom: 30px;
+}
+
+.img_padrao{
+	margin-bottom: 20px;
+	width: 300px;
+}
+.logo{
+	width: 30px;
+}
